@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">UTSandroid-IF10K-10119916-Dianarpian</string>
+    <string name="back_page">Back page</string>
+    <string name="form_pengisian_data">Form Pengisian Data</string>
+    <string name="string_form_pengisian_data" />
+    <string name="info">Info</string>
+    <string name="title_info">Form berikut ini bertujuan untuk memberikan informasi kepada pusat agar dapat mudah dilaporkan</string>
+    <string name="rapid_antigen">Rapid Antigen</string>
+    <string name="selanjutnya">Selanjutnya</string>
+    <string name="form_berikut_ini_bertujuan_untuk_memberikan_informasi_kepada_pusat_agar_dapat_mudah_dilaporkan">Form berikut ini bertujuan untuk memberikan informasi kepada pusat agar dapat mudah dilaporkan</string>
+    <string name="dengan_ini_saya_menyetujui_bahwa_data_yang_saya_isikan_adalah_bena">Dengan ini saya menyetujui bahwa data yang saya isikan adalah bena</string>
+    <string name="kerabat_lainnya">Kerabat Lainnya</string>
+    <string name="anak">Anak</string>
+    <string name="suami_istri">Suami/Istri</string>
+    <string name="tanggal_lahir">Tanggal Lahir</string>
+    <string name="hubungan_dengan_orang_tua">Hubungan Dengan Orang Tua</string>
+    <string name="jenis_kelamin">Jenis Kelamin</string>
+    <string name="orangtua">Orangtua</string>
+    <string name="perempuan">Perempuan</string>
+    <string name="laki_laki">Laki-Laki</string>
+    <string name="harus_diisi">- Harus Diisi</string>
+    <string name="masukkan_tanggal_lahir">Masukkan Tanggal Lahir</string>
+    <string name="masukkan_nama">Masukkan Nama</string>
+    <string name="nama">Nama</string>
+    <string name="masukkan_nik">Masukkan NIK</string>
+    <string name="nik">NIK</string>
+    <string name="pilih_tanggal">Pilih Tanggal</string>
+    <string name="tanggal_terkonfirmasi">Tanggal Terkonfirmasi</string>
+    <string name="pcr">PCR</string>
+    <string name="jenis_tes">Jenis Tes</string>
+</resources>
